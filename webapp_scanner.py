@@ -5,7 +5,7 @@ import urllib2
 
 threads=10
 
-target="http://www.exaple.com"
+target="http://www.example.com"
 directory="/Users/root1/Downloads/Joomla_3.7.5-Stable-Full_Package"
 filters=[".jpg",".png",".css",".gif"]
 
